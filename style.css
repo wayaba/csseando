@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Splash&family=Titillium+Web:wght@200;300;400&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
 }
 
 body {
-  font-family: Arial;
   background-color: #c0e4fc;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 .card {
@@ -52,7 +54,7 @@ body {
 }
 
 .card__media {
-  margin-top: 40px;
+  margin-top: 20px;
   width: 100%;
   height: 90px;
   border-top: 1px solid #b3a2a2;
